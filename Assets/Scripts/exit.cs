@@ -9,7 +9,7 @@ public class exit : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -21,7 +21,7 @@ public class exit : MonoBehaviour
 
     }
 
- void    checkIfButtonIsPressed()
+    void checkIfButtonIsPressed()
     {
 
         foreach (Touch touch in Input.touches)
@@ -34,4 +34,6 @@ public class exit : MonoBehaviour
 
             }
         }
+    }
+
 }
