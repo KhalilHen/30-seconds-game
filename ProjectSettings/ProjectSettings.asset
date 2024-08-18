@@ -774,11 +774,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 3494e737-f3f8-4fb4-ad97-76434adbceb8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: 30_seconds_game
+  organizationId: gestolennaam
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
